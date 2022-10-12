@@ -1,0 +1,4 @@
+🚀 Remova somente o contêiner criado para esse exercício.
+Solução
+
+Foi utilizado o comando docker container rm <CONTAINER ID || NAMES>, validado em seguida.
