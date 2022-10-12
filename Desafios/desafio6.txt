@@ -1,0 +1,4 @@
+🚀 Encerre o terminal.
+Solução
+
+Para encerrar o terminal interno do container, o comando exit foi utilizado.
